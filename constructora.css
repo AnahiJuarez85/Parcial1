@@ -1,0 +1,10 @@
+body{
+    background-color:#AED6F1;
+}
+h1{ display: flex;
+    justify-content: center;}
+
+    .imagenes{display: flex;
+            flex-wrap: nowrap;
+            width: 20vw;
+            height: 30vh;}
